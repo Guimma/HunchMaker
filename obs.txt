@@ -1,0 +1,12 @@
+http://jsuol.com.br/c/monaco/utils/gestor/commons.js?callback=simulador_dados_jsonp&file=commons.uol.com.br/sistemas/esporte/modalidades/futebol/campeonatos/dados/2021/30/dados.json
+
+TUDO 1: 45.81%
+MEDIA NOS 5 PRIMEIROS, DEPOIS MEDIA NO CAMPEONATO: 43.73%
+TODOS OS JOGOS COM A MEDIA DO ANO PASSADO:
+GOLS NO ULTIMO JOGO:
+MEDIA NOS ULTIMOS 2 JOGOS:
+MEDIA NOS ULTIMOS 3 JOGOS:
+MEDIA NOS ULTIMOS 4 JOGOS:
+MEDIA NOS ULTIMOS 5 JOGOS:
+MEDIA NOS ULTIMOS 6 JOGOS:
+MEDIA NOS ULTIMOS 7 JOGOS:

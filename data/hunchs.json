@@ -1,40 +1,2358 @@
 {
-    "1": [],
-    "2": [],
-    "3": [],
-    "4": [],
-    "5": [],
-    "6": [],
-    "7": [],
-    "8": [],
-    "9": [],
-    "10": [],
-    "11": [],
-    "12": [],
-    "13": [],
-    "14": [],
-    "15": [],
-    "16": [],
-    "17": [],
-    "18": [],
-    "19": [],
-    "20": [],
-    "21": [],
-    "22": [],
-    "23": [],
-    "24": [],
-    "25": [],
-    "26": [],
-    "27": [],
-    "28": [],
-    "29": [],
-    "30": [],
-    "31": [],
-    "32": [],
-    "33": [],
-    "34": [],
-    "35": [],
-    "36": [],
-    "37": [],
-    "38": []
+    "1": [
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Atlético-MG",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "2": [
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Corinthians",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Fortaleza",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Santos",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "3": [
+        {
+            "home_team": "Grêmio",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Ceará",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "4": [
+        {
+            "home_team": "Flamengo",
+            "away_team": "Grêmio",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Atlético-GO",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Bahia",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "5": [
+        {
+            "home_team": "Athletico",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Atlético-MG",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Botafogo",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "6": [
+        {
+            "home_team": "Botafogo",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Corinthians",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Athletico",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "7": [
+        {
+            "home_team": "Ceará",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "8": [
+        {
+            "home_team": "Flamengo",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Atlético-MG",
+            "home_goals": 0,
+            "away_goals": 1
+        }
+    ],
+    "9": [
+        {
+            "home_team": "Athletico",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 0
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "10": [
+        {
+            "home_team": "Athletico",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "11": [
+        {
+            "home_team": "São Paulo",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "12": [
+        {
+            "home_team": "Sport",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Grêmio",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "13": [
+        {
+            "home_team": "Grêmio",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Vasco",
+            "home_goals": 2,
+            "away_goals": 1
+        }
+    ],
+    "14": [
+        {
+            "home_team": "Corinthians",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "15": [
+        {
+            "home_team": "Vasco",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Goiás",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "16": [
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Fluminense",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "17": [
+        {
+            "home_team": "Fluminense",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Vasco",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        }
+    ],
+    "18": [
+        {
+            "home_team": "Vasco",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Sport",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Flamengo",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "19": [
+        {
+            "home_team": "Botafogo",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "São Paulo",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "20": [
+        {
+            "home_team": "Athletico",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Goiás",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Coritiba",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Flamengo",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "21": [
+        {
+            "home_team": "Sport",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Atlético-GO",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "22": [
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Coritiba",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Vasco",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "23": [
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Botafogo",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        }
+    ],
+    "24": [
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Sport",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Internacional",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "25": [
+        {
+            "home_team": "Athletico",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Santos",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "26": [
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Atlético-MG",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Bahia",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "27": [
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Coritiba",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "28": [
+        {
+            "home_team": "Grêmio",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Fluminense",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Santos",
+            "home_goals": 2,
+            "away_goals": 1
+        }
+    ],
+    "29": [
+        {
+            "home_team": "Sport",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Santos",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Ceará",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "30": [
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Atlético-GO",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "31": [
+        {
+            "home_team": "Botafogo",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Internacional",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Palmeiras",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "32": [
+        {
+            "home_team": "São Paulo",
+            "away_team": "Coritiba",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Grêmio",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "33": [
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Fortaleza",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Corinthians",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "34": [
+        {
+            "home_team": "Grêmio",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Vasco",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Palmeiras",
+            "home_goals": 2,
+            "away_goals": 1
+        }
+    ],
+    "35": [
+        {
+            "home_team": "Bahia",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Flamengo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Sport",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "São Paulo",
+            "away_team": "Ceará",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Coritiba",
+            "away_team": "Palmeiras",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "36": [
+        {
+            "home_team": "Goiás",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Bahia",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Corinthians",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Internacional",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ],
+    "37": [
+        {
+            "home_team": "Coritiba",
+            "away_team": "Ceará",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fortaleza",
+            "away_team": "Bahia",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Corinthians",
+            "away_team": "Vasco",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Sport",
+            "away_team": "Atlético-MG",
+            "home_goals": 1,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Flamengo",
+            "away_team": "Internacional",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Santos",
+            "away_team": "Fluminense",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Grêmio",
+            "away_team": "Athletico",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Goiás",
+            "away_team": "Red Bull Bragantino",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Palmeiras",
+            "away_team": "Atlético-GO",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Botafogo",
+            "away_team": "São Paulo",
+            "home_goals": 1,
+            "away_goals": 2
+        }
+    ],
+    "38": [
+        {
+            "home_team": "São Paulo",
+            "away_team": "Flamengo",
+            "home_goals": 2,
+            "away_goals": 2
+        },
+        {
+            "home_team": "Ceará",
+            "away_team": "Botafogo",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-MG",
+            "away_team": "Palmeiras",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Bahia",
+            "away_team": "Santos",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Internacional",
+            "away_team": "Corinthians",
+            "home_goals": 2,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Red Bull Bragantino",
+            "away_team": "Grêmio",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Athletico",
+            "away_team": "Sport",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Atlético-GO",
+            "away_team": "Coritiba",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Fluminense",
+            "away_team": "Fortaleza",
+            "home_goals": 1,
+            "away_goals": 1
+        },
+        {
+            "home_team": "Vasco",
+            "away_team": "Goiás",
+            "home_goals": 1,
+            "away_goals": 1
+        }
+    ]
 }

@@ -1,13 +1,11 @@
 import json
 from decimal import Decimal
-# pegar os jogos da rodada
-# criar json com os resultados da rodada
-# criar json com os palpites da rodada
-# criar cálculo de quantos pontos fiz / pontos possíveis
+
 
 def getJsonFromFile(path):
     with open(f"./data/{path}.json", "r", encoding='utf-8') as file:
         return json.load(file)
+
 
 def getTeamById(id):
     with open("./data/teams.json", "r", encoding='utf-8') as file:
@@ -15,6 +13,7 @@ def getTeamById(id):
         for team in teams["equipes"]:
             if team["id"] == id:
                 return team
+
 
 def lastGamesAverage(team_name, round_number):
     num_games = int(round_number)
@@ -29,15 +28,17 @@ def lastGamesAverage(team_name, round_number):
                 num_goals += int(game_result["away_goals"]) 
     return round(num_goals/num_games)
 
+
 def getGoalsByTeam(team_name, round_number):
     with open("./data/teams.json", "r", encoding='utf-8') as file:
         teams = json.load(file)
         for team in teams["equipes"]:
             if team["nome-comum"] == team_name:
-                if(int(round_number) <= 5):
+                if(int(round_number) <= 6):
                     return round(Decimal(team["media-gols"]))
                 else:
                     return lastGamesAverage(team_name, round_number)
+
 
 def calculatePoints(hunchs, results):
     max_points = 0
@@ -77,6 +78,7 @@ def calculatePoints(hunchs, results):
     print(f"\nVocê fez {points} pontos de {max_points} possíveis!")
     print(f"Precisão de: {round((points/max_points)*100, 2)}%")
 
+
 def hunch():
     hunchs = getJsonFromFile("hunchs")
     results = getJsonFromFile("results")
@@ -95,6 +97,14 @@ def hunch():
         json.dump(hunchs, file, ensure_ascii=False)
     print("Palpites gerados!")
     return hunchs
+
+
+def setupHunch():
+    with open("./data/temp.json", "r", encoding='utf-8') as temp_file:
+        template = json.load(temp_file)
+    with open("./data/hunchs.json", "w", encoding='utf-8') as hunch_file:
+        json.dump(template, hunch_file, ensure_ascii=False)
+
 
 def setupResults():
     with open("./data/raw_2020.json", "r", encoding='utf-8') as file:
@@ -120,10 +130,12 @@ def setupResults():
     print("Resultados obtidos!")
     return results
 
+
 def main():
     results = getJsonFromFile("results")
     if (not results["1"]):
         results = setupResults()
+    setupHunch()
     hunchs = hunch()
     calculatePoints(hunchs, results)
     

@@ -1,5 +1,2 @@
-results.json
-hunchs.json
-database.json
-raw_2021.json
-raw_2020.json
+#data
+**/data/*.json

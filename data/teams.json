@@ -53,16 +53,16 @@
             "media-gols": "1.26"
         },
         {
-            "id": "5",
-            "nome": "Botafogo de Futebol e Regatas",
-            "nome-comum": "Botafogo",
-            "nome-slug": "botafogo",
-            "sigla": "BOT",
-            "tag": "Botafogo [15485]; ",
+            "id": "185",
+            "nome": "Cuiabá Esporte Clube",
+            "nome-comum": "Cuiabá",
+            "nome-slug": "cuiaba",
+            "sigla": "CUI",
+            "tag": "Cuiabá-MT [15611]; ",
             "tipo": "clube",
-            "uri": "http://esporte.uol.com.br/futebol/clubes/botafogo",
-            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/botafogo.png",
-            "cor": "#282C32;#EA5A1B",
+            "uri": "",
+            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/cuiaba.png",
+            "cor": "#329B46;#EA5A1B",
             "media-gols": "0.84"
         },
         {
@@ -92,16 +92,16 @@
             "media-gols": "1.18"
         },
         {
-            "id": "7",
-            "nome": "Coritiba Football Club", 
-            "nome-comum": "Coritiba", 
-            "nome-slug": "coritiba", 
-            "sigla": "CTB",
-            "tag": "Coritiba [15582]; ", 
+            "id": "16",
+            "nome": "Esporte Clube Juventude",
+            "nome-comum": "Juventude",
+            "nome-slug": "juventude",
+            "sigla": "JUV",
+            "tag": "Juventude [15831]; ",
             "tipo": "clube",
-            "uri": "http://esporte.uol.com.br/futebol/clubes/coritiba", 
-            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/coritiba.png",
-            "cor": "#329B46;#EA5A1B",
+            "uri": "http://esporte.uol.com.br/futebol/clubes/juventude",
+            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/juventude.png",
+            "cor": ";",
             "media-gols": "0.81"
         },
         {
@@ -144,15 +144,15 @@
             "media-gols": "0.89"
         },
         {
-            "id": "12",
-            "nome": "Goiás Esporte Clube",
-            "nome-comum": "Goiás",
-            "nome-slug": "goias",
-            "sigla": "GOI",
-            "tag": "Goiás [15694]; ",
+            "id": "26",
+            "nome": "América Futebol Clube",
+            "nome-comum": "América-MG",
+            "nome-slug": "america-mg",
+            "sigla": "AMG",
+            "tag": "América-MG [15382]; ",
             "tipo": "clube",
-            "uri": "http://esporte.uol.com.br/futebol/clubes/goias",
-            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/goias.png",
+            "uri": "http://esporte.uol.com.br/futebol/clubes/america-mg/",
+            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/america-mg.png",
             "cor": "#329B46;#EA5A1B",
             "media-gols": "1.07"
         },
@@ -248,16 +248,16 @@
             "media-gols": "0.81"
         },
         {
-            "id": "25",
-            "nome": "Clube de Regatas Vasco da Gama",
-            "nome-comum": "Vasco",
-            "nome-slug": "vasco",
-            "sigla": "VAS",
-            "tag": "Vasco [16237]; ",
+            "id": "695",
+            "nome": "Associação Chapecoense de Futebol",
+            "nome-comum": "Chapecoense",
+            "nome-slug": "chapecoense",
+            "sigla": "CHA",
+            "tag": "Chapecoense [15546]; ",
             "tipo": "clube",
-            "uri": "http://esporte.uol.com.br/futebol/clubes/vasco",
-            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/vasco.png",
-            "cor": "#282C32;#EA5A1B",
+            "uri": "http://esporte.uol.com.br/futebol/clubes/chapecoense/",
+            "brasao": "http://e.imguol.com/futebol/brasoes/40x40/chapecoense.png",
+            "cor": "#329B46;#EA5A1B",
             "media-gols": "0.97"
         }
     ]

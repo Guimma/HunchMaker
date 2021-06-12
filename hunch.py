@@ -63,8 +63,8 @@ def calculatePoints(current_round, only_this_round):
     for round_number in range(start_round, current_round + 1):
         round_hunchs = hunchs[str(round_number)]
         round_results = results[str(round_number)]
-        print(f"\n----------RESULTADOS DA RODADA {current_round}-----------")
-        for game_number in range(0, 10):
+        print(f"\n----------RESULTADOS DA RODADA {round_number}-----------")
+        for game_number in range(0, len(round_results)):
             print(f"\nJOGO {game_number + 1}")
             max_points += 25
             home_goals = int(round_results[game_number]["home_goals"])
@@ -95,17 +95,18 @@ def calculatePoints(current_round, only_this_round):
                 print("Não pontuou!")
 
     print(f"\nVocê fez {points} pontos de {max_points} possíveis!")
-    print(f"Precisão de: {round((points/max_points)*100, 2)}%")
+    if max_points is not 0:
+        print(f"Precisão de: {round((points/max_points)*100, 2)}%")
 
 
 def hunch(current_round):
     hunchs = getJsonFromFile("hunchs")
-    results = getJsonFromFile("results")
     with open("./data/hunchs.json", "w", encoding='utf-8') as file:
-        print(f"\n------------PALPITES DA RODADA {current_round}-------------")
         for round_number in range(1, current_round + 1):
+            if(round_number == current_round):
+                print(f"\n------------PALPITES DA RODADA {round_number}-------------")
             round_matches = []
-            for match in results[str(round_number)]:
+            for match in hunchs[str(round_number)]:
                 match_result = {
                     'home_team': match["home_team"],
                     'away_team': match["away_team"],
@@ -130,9 +131,10 @@ def setupData():
 
 
 def setupResults():
-    with open("./data/database.json", "r", encoding='utf-8') as file:
-        data = json.load(file)
+    with open("./data/database.json", "r", encoding='utf-8') as database_file:
+        data = json.load(database_file)
         results = getJsonFromFile("results")
+        hunchs = getJsonFromFile("hunchs")
         for round_number in range(1, 39):
             matches_ids = data["fases"]["3275"]["jogos"]["rodada"][str(round_number)]
             for match_id in matches_ids:
@@ -147,9 +149,14 @@ def setupResults():
                     'home_goals': home_goals,
                     'away_goals': away_goals,
                 }
-                results[str(round_number)].append(match_result)
-        with open("./data/results.json", "w", encoding='utf-8') as file:
-            json.dump(results, file, ensure_ascii=False)
+                hunchs[str(round_number)].append(match_result)
+                if home_goals is not None and away_goals is not None:
+                    results[str(round_number)].append(match_result)
+
+        with open("./data/results.json", "w", encoding='utf-8') as results_file:
+            json.dump(results, results_file, ensure_ascii=False)
+        with open("./data/hunchs.json", "w", encoding='utf-8') as hunchs_file:
+            json.dump(hunchs, hunchs_file, ensure_ascii=False)
     return results
 
 

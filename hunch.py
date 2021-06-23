@@ -20,22 +20,21 @@ def getTeamById(id):
 
 
 def lastGamesAverage(team_name, round_number):
-    num_games = int(round_number)
+    num_games = 0
     num_goals = 0
     results = getJsonFromFile("results")
-    for round_number in range(1,num_games):
-        for game_number in range(0, 10):
+    for round_number in range(1, int(round_number)):
+        round_results = results[str(round_number)]
+        for game_number in range(0, len(round_results)):
             game_result = results[str(round_number)][game_number]
             if game_result["home_team"] == team_name:
                 if game_result["home_goals"] is not None:
                     num_goals += int(game_result["home_goals"]) 
-                else:
-                    num_goals += 1 
+                    num_games += 1
             elif game_result["away_team"] == team_name:
                 if game_result["away_goals"] is not None:
                     num_goals += int(game_result["away_goals"]) 
-                else:
-                    num_goals += 1 
+                    num_games += 1
     return round(num_goals/num_games)
 
 
@@ -70,8 +69,12 @@ def calculatePoints(current_round, only_this_round):
             max_points += 25
             home_goals = int(round_results[game_number]["home_goals"])
             away_goals = int(round_results[game_number]["away_goals"])
-            hunch_home_goals = int(round_hunchs[game_number]["home_goals"])
-            hunch_away_goals = int(round_hunchs[game_number]["away_goals"])
+            for hunch in range(0, 10):
+                if round_hunchs[hunch]["home_team"] == round_results[game_number]["home_team"]:
+                    hunch_game = round_hunchs[hunch]
+            hunch_home_goals = int(hunch_game["home_goals"])
+            hunch_away_goals = int(hunch_game["away_goals"])
+
             if home_goals == hunch_home_goals and away_goals == hunch_away_goals:
                 points += 25
                 print("Acertou placar exato!")
@@ -82,7 +85,8 @@ def calculatePoints(current_round, only_this_round):
             elif home_goals - away_goals == hunch_home_goals - hunch_away_goals:
                 points += 15
                 print("Acertou saldo de gols da partida!")
-            elif away_goals == hunch_away_goals and home_goals > away_goals:
+            elif (home_goals > away_goals and hunch_home_goals > hunch_away_goals and away_goals == hunch_away_goals) or \
+                 (away_goals > home_goals and hunch_away_goals > hunch_home_goals and home_goals == hunch_home_goals):
                 points += 12
                 print("Acertou gols do time perdedor!")
             elif (home_goals > away_goals and hunch_home_goals > hunch_away_goals) or \

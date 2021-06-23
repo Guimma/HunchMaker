@@ -4,6 +4,7 @@ import urllib.request
 
 ANO = "2021"
 CAMPEONATO_BRASILEIRO = "30"
+WARM_UP_ROUNDS = 5
 
 def getJsonFromFile(path):
     with open(f"./data/{path}.json", "r", encoding='utf-8') as file:
@@ -43,7 +44,7 @@ def getGoalsByTeam(team_name, round_number):
         teams = json.load(file)
         for team in teams["equipes"]:
             if team["nome-comum"] == team_name:
-                if(int(round_number) <= 6):
+                if(int(round_number) <= WARM_UP_ROUNDS):
                     return round(Decimal(team["media-gols"]))
                 else:
                     return lastGamesAverage(team_name, round_number)
